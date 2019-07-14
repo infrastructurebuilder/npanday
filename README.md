@@ -17,6 +17,8 @@ Also in no order
 * Fit directly within the .NET development cycle.  Specifically, many of the complaints appear to be in a form of "NPanday looks too much like Maven."
 
 
+## Actions
+
 Things we're likely to do
 
 1. DEFINITELY NOT REFORMAT THE SOURCE.  Figure out the source formatting so that we don't break our ability to merge upstream unless we absolutely have to.
